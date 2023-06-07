@@ -896,7 +896,13 @@ header .container nav ul li a:hover {
     right: 27%;
 }
 
+.book3{
+    height: 240px;
+}
 
+.logo3{
+    border-radius: 15px;
+}
 .certificate .certificate-container .price-box .price p {
 
     font-size: 1.6rem;
